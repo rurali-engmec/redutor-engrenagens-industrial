@@ -23,21 +23,7 @@ O sistema foi projetado para adaptar a alta rotação e baixo torque de um motor
 * **Uniões Eixo-Cubo:** Dimensionamento de chavetas puras (norma DIN 6885) com verificação de pressões de esmagamento no cubo/eixo e tensões de cisalhamento.
 * **Documentação CAD / Detalhamento:** Modelagem 3D no Solid Edge e elaboração de desenhos técnicos de fabricação com tolerâncias dimensionais, rugosidades (N6/N7) e indicação de acabamentos.
 
----
 
-## 🖼️ Galeria do Projeto
-
-*(Nota: Se carregou as imagens com outros nomes, lembre-se de ajustar os nomes dos ficheiros nos links abaixo se necessário)*
-
-| Montagem do Conjunto 3D | Eixo Intermediário com Chavetas |
-| :---: | :---: |
-| ![Montagem](nome_da_imagem_montagem.png) | ![Eixo](nome_da_imagem_eixo.png) |
-
----
-
-## 📄 Documentação Completa
-O relatório técnico final com todo o memorial de cálculo, tabelas de verificação e desenhos cotados está disponível para consulta:
-* 📥 [Baixar Relatório Técnico Completo (PDF)](./nome_do_seu_relatorio.pdf)
 
 ---
 *Desenvolvido por Gianluca Gomes Souza e Matheus Nunes Rurali — Engenharia Mecânica (EESC-USP).*
